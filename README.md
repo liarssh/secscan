@@ -23,11 +23,14 @@
 - **Browser Security**: Checks for security settings in Firefox/Chrome.
 - **Report Generation**: Creates a detailed JSON report of the findings.
 
-- ## Installation
-   
+## Installation
+
 Clone the repository:
-   git clone https://github.com/yourusername/secscan.git
-   cd secscan
+
+```bash
+git clone https://github.com/yourusername/secscan.git
+cd secscan
+```
 
 ## Usage
 python3 secscan.py
