@@ -33,6 +33,8 @@ cd secscan
 ```
 
 ## Usage
+```bash
 python3 secscan.py
+```
 
 Every check will generate a report in JSON format.
